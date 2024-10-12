@@ -334,7 +334,7 @@ It is possible to specify a fork in the diagram using <\<fork>> <\<join>>.
       State4 --> [*]
 ```
 
-## History (v11.0.0+)
+## History (v\<MERMAID_RELEASE_VERSION>+)
 
 It is possible to add (deep) history nodes in the diagram using <\<history>> <\<deephistory>>.
 
